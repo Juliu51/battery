@@ -6,8 +6,6 @@
 }
 
 .wrapper .battery {
-  margin-top: calc(50% - 150px);
-  margin-left: calc(50% - 300px);
   width: 600px;
   height: 300px;
   border: 8px solid black;
